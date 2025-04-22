@@ -109,11 +109,7 @@ ProductHub/
 
 ---
 
-## 📜 License
 
-Licensed under MIT — Free to use, modify, and share!
-
----
 
 ## 🎉 Final Words
 

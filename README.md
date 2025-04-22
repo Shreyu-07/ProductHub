@@ -76,7 +76,7 @@ ProductHub/
 
 1. **Clone the Repository**
    \`\`\`bash
-   git clone https://github.com/your-username/producthub.git
+   git clone https://github.com/Shreyu-07/ProductHub.git
    cd producthub
    \`\`\`
 

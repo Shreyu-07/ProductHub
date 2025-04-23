@@ -7,7 +7,7 @@
 
 ## 🌐 Live Preview
 
-Check out the live version here 👉 [Visit ProductHub](https://your-deployment-link.com)
+Check out the live version here 👉 [Visit ProductHub](https://producthub-rnx7.onrender.com)
 
 ---
 

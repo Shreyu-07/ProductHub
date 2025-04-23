@@ -15,7 +15,7 @@ Check out the live version here 👉 [Visit ProductHub](https://producthub-rnx7.
 
 | Home Form Page                                                                                         | Submitted Data Page |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| ![Home](![op](![op](https://github.com/user-attachments/assets/63e73925-b3fd-49e8-86ca-bffe688bb985))) | ![Submitted](![op1](https://github.com/user-attachments/assets/9e002670-b91e-49fd-aeaa-ef87070b4226)|
+| ![Home](![op](https://github.com/user-attachments/assets/91990101-0a12-4650-8ecc-584c2efe2530)         | ![Submitted](![op1](https://github.com/user-attachments/assets/9e002670-b91e-49fd-aeaa-ef87070b4226)|
 |                                                                                                        |  ![op2](https://github.com/user-attachments/assets/42a9a3e4-bff2-4aad-abe2-7056f4c3d06f) )           |
 
 ---

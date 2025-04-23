@@ -34,9 +34,9 @@ Check out the live version here 👉 [Visit ProductHub](https://producthub-rnx7.
 
 ## 🛠️ Tech Stack
 
-| Frontend        | Backend  | PDF Library | Styling         |
-|-----------------|----------|-------------|------------------|
-| HTML + CSS      | Flask    | html2pdf.js | Bootstrap 5.3.5 |
+| Frontend        | Backend                 | PDF Library | Styling         |
+|-----------------|-------------------------|-------------|-----------------|
+| HTML + CSS      | Flask{ **Python 3**}    | html2pdf.js | Bootstrap 5.3.5 |
 
 ---
 
